@@ -1,0 +1,3 @@
+# Module anydata
+# RPC service class, partial path of RPC policy file
+anyData.client.GreetingService, 4BC4D4004C2C849A209C7602E68C09C9.gwt.rpc

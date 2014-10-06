@@ -1,0 +1,2 @@
+serviceClass: anyData.client.GreetingService
+path: 4BC4D4004C2C849A209C7602E68C09C9.gwt.rpc
